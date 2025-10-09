@@ -1,2 +1,3 @@
 # Analyzing Tweets from Airline Passengers  
-An analysis of airline passengers' tweets using Python's NLTK package and other useful libraries.
+In this project, I analyzed airline passengers' tweets using Python's NLTK package and other useful libraries. I performed sentiment analysis, time series analysis, tweets processing to create a word cloud with the most common words used to describe different airlines. Check out my [Jupyter Notebook](https://ogeano.github.io/Analyzing-Tweets-from-Airline-Passengers/) to see all the python code I used to carry out the project.
+I also documented my approach in an article published in the Medium publication Level Up Coding. You can read my article [here](https://levelup.gitconnected.com/what-do-airline-passengers-really-think-66a83a7fb3b5) to grasp some of the steps I took.
